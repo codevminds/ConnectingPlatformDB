@@ -1,0 +1,23 @@
+ [
+{
+    "UserName": "Siva",
+    "Password":    "260982",
+    "UserType": "Inudivual",
+    "ProviderType":    "Consumer",
+    "Address": "abc",
+    "Phone": "+9199999999",
+    "Mobile": "+919962137711",
+    "Email": "cdsiva@gmail.com",
+    "DOB": "26/07/1982"
+},
+{
+    "UserName": "Tenson pvt ltd",
+    "UserType": "Organization",
+    "Password":    "0101982",
+    "ProviderType":    "Service Provider",
+    "Address": "cvb",
+    "Phone": "+9199999999",
+    "Mobile": "+919962137711",
+    "Email": "cdsiva@gmail.com",
+    "DOB": "26/07/1982"}
+]
